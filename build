@@ -1,4 +1,4 @@
-#!/usr/local/env bash
+#!/bin/bash
 
 mkdir -p ./dist/{css,scripts,images}
 cp -R ./public/* ./dist/
