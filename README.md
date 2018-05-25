@@ -1,5 +1,5 @@
 # <img src="http://2015.jsconf.us/img/js-sized.png" width="40" alt="JSConf"> JSConf
-[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/jsconf/jsconf.com/blob/master/CODE_OF_CONDUCT.md)
+[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](CODE_OF_CONDUCT.md)
 
 **Looking for the centralized website for JSConf events international?**<br>
 You've come to the right place. Read on.
