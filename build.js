@@ -7,7 +7,7 @@ const pug = require('pug');
 const sass = require('node-sass');
 const Promise = require('bluebird');
 
-const OUTPUT_DIR = process.env.OUTPUT_DIR || 'public';
+const OUTPUT_DIR = process.env.OUTPUT_DIR || 'dist';
 
 // site configuration
 const pages = {
@@ -62,7 +62,8 @@ async function buildHTML() {
 
   return Promise.all([
     buildFile(pages.home, { conferences }),
-    buildFile(pages.onboard)
+    buildFile(pages.onboard),
+    buildFile(pages.coc)
   ]);
 
   function buildFile(page, props) {

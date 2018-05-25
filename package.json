@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"no tests...\"",
-    "build": "mkdir -p public/css && OUTPUT_DIR=public node build.js"
+    "build": "mkdir -p dist/{css,images,scripts} && cp -R public/* dist/ && OUTPUT_DIR=dist node build.js"
   },
   "repository": {
     "type": "git",
