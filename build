@@ -1,0 +1,5 @@
+#!/usr/local/env bash
+
+mkdir -p ./dist/{css,scripts,images}
+cp -R ./public/* ./dist/
+node run build
