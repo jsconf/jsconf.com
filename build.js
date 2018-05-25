@@ -18,6 +18,10 @@ const pages = {
   onboard: {
     template: 'onboard',
     filename: 'i-want-to-run-a-jsconf.html'
+  },
+  coc: {
+    template: 'coc',
+    filename: 'codeofconduct.html'
   }
 };
 
