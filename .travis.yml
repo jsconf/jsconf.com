@@ -1,6 +1,9 @@
 language: node_js
 
-script: npm run build
+script:
+  - npm run build
+  - echo "SITE STRUCTURE:"
+  - ls -al dist/
 
 cach:
   directories:
