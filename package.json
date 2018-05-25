@@ -4,8 +4,7 @@
   "description": "JSConf website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"no tests...\"",
-    "build": "mkdir -p dist/{css,images,scripts} && cp -R public/* dist/ && OUTPUT_DIR=dist node build.js"
+    "test": "echo \"no tests...\""
   },
   "repository": {
     "type": "git",
