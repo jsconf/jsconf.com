@@ -1,0 +1,81 @@
+# A list of all official JSConf events
+
+# JSConf US
+- jsconfus:
+    name: JSConf US
+    site: https://2018.jsconf.us
+    logo: http://2015.jsconf.us/img/js-sized.png
+    status: onsale
+
+# JSConf EU
+- jsconfeu:
+    name: JSConf EU
+    site: https://2018.jsconf.eu
+    logo: images/jsconf_eu.png
+    status: onsale
+
+# JSConf HI
+- jsconfhi:
+    name: JSConf HI
+    site: https://jsconfhi.com
+    logo: images/jsconf_hi.png
+
+# JSConf AU
+- jsconfau:
+    name: JSConf AU
+    site: http://jsconfau.com
+    logo: images/jsconf_au.png
+
+# JSConf AR
+- jsconfar:
+    name: JSConf AR
+    site: http://www.jsconfar.com
+    logo: images/jsconf_ar.png
+
+# JSConf BR
+- jsconfbr:
+    name: JSConf BR
+    site: http://www.jsconfbr.org
+    logo: images/jsconf_br.png
+
+# JSConf CO
+- jsconfco:
+    name: JSConf CO
+    site: http://jsconf.co
+    logo: images/jsconf_co.png
+
+# JSConf Asia
+- jsconfasia:
+    name: JSConf Asia
+    site: http://jsconf.asia
+    logo: images/jsconf_asia.png
+
+# JSConf Iceland
+- jsconficeland:
+    name: JSConf Iceland
+    site: http://jsconf.is
+    logo: images/jsconf_is.png
+
+# JSConf UY
+- jsconfuy:
+    name: JSConf UY
+    site: http://jsconf.uy
+    logo: images/jsconf_uy.png
+
+# JSConf Budapest
+- jsconfbudapest:
+    name: JSConf Budapest
+    site: http://jsconfbp.com
+    logo: images/jsconf_bp.png
+
+# JSConf Belgium
+- jsconfbelgium:
+    name: JSConf Belgium
+    site: http://jsconf.be
+    logo: images/jsconf_be.png
+
+# JSConf China
+- jsconfchina:
+    name: JSConf China
+    site: http://2017.jsconf.cn
+    logo: images/jsconf_cn.png

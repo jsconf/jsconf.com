@@ -1,0 +1,9 @@
+mixin conference(conf)
+  .conf(class!=conf.status)
+    a(rel="me" href=conf.site)
+      img(src=conf.logo height="200" width="200" alt=conf.name)
+    p= conf.name
+      if conf.location
+        br
+        | #{conf.location}
+
