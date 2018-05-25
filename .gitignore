@@ -17,4 +17,7 @@ SFLDC
 script/loaders/*.log
 tmp/restart.txt
 tmp/debug.txt
+
+# Build ignore
 node_modules
+dist
