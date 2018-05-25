@@ -1,6 +1,6 @@
 language: node_js
 
-script: ./build
+script: npm run build
 
 cach:
   directories:
