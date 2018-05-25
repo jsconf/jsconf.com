@@ -6,4 +6,3 @@ You've come to the right place. Read on.
 
 **Want to organize a JSConf event?**<br>
 [Read more about involvement here](http://jsconf.com/i-want-to-run-a-jsconf.html)
-
