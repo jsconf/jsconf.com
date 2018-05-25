@@ -1,0 +1,17 @@
+language: node_js
+
+script:
+  - npm run build
+
+cach:
+  directories:
+    - "node_modules"
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  local-dir: public
+  target-branch: gh-pages
+  on:
+    branch: master

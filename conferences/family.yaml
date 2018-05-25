@@ -1,0 +1,87 @@
+# Configuration list for all JSConf family events
+
+# JSUnconf
+- jsunconf:
+    name: JS Unconf
+    site: http://jsunconf.eu
+    logo: images/jsunconf.png
+    location: Hamburg, Germany
+
+# JSFest (inactive - only here to test status)
+- jsfest:
+    name: JSFest
+    site: http://jsfest.com
+    logo: images/jsfest.png
+    location: San Francisco, CA
+    status: inactive
+
+# CascadiaJS
+- cascadiajs:
+    name: CascadiaJS
+    site: http://cascadiajs.com
+    logo: images/cascadiajs.png
+    location: Seattle, WA
+
+# RedisConf
+- redisconf:
+    name: RedisConf
+    site: http://redisconf.com
+    logo: images/redisconf.png
+    location: Portland, OR
+
+# EmpireJS
+- empirejs:
+    name: EmpireJS
+    site: http://empireconf.org
+    logo: images/empirejs/2015.png
+    location: New York, NY
+
+# NodeCopter
+- nodecopter:
+    name: NodeCopter
+    site: http://nodecopter.com
+    logo: images/nodecopter.png
+    location: Everywhere
+
+# NodeBots
+- nodebots:
+    name: NodeBots
+    site: http://nodebots.io
+    logo: images/nodebots.png
+    location: Everywhere
+
+# NodeConf
+- nodeconf:
+    name: NodeConf
+    site: http://www.nodeconf.com
+    logo: images/nodeconf.png
+
+# Web Rebels
+- webrebels:
+    name: Web Rebels
+    site: http://www.webrebels.org
+    logo: images/webrebels.png
+    location: Oslo, Norway
+
+# BeerJS
+- beerjs:
+    name: BeerJS
+    site: http://beejs.com
+    logo: images/beerjs.png
+    location: Everywhere
+
+# Midwest JS
+- midwestjs:
+    name: Midwest JS
+    site: http://midwestjs.com
+    logo: images/midwestjs.png
+    location: Minneapolis, MN
+    status: onsale
+
+# Dinosaur.js
+- dinosaurjs:
+    name: Dinosaur.js
+    site: http://dinosaurjs.org
+    logo: images/dinosaurjs-2015.png
+    location: Denver, CO
+

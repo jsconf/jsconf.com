@@ -1,0 +1,26 @@
+{
+  "name": "jsconf.com",
+  "version": "1.0.0",
+  "description": "JSConf website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests...\"",
+    "build": "mkdir -p public/css && OUTPUT_DIR=public node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guahanweb/jsconf.com-new.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guahanweb/jsconf.com-new/issues"
+  },
+  "homepage": "https://github.com/guahanweb/jsconf.com-new#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "node-sass": "^4.9.0",
+    "node-yaml": "^3.1.1",
+    "pug": "^2.0.3"
+  }
+}

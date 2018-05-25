@@ -17,3 +17,4 @@ SFLDC
 script/loaders/*.log
 tmp/restart.txt
 tmp/debug.txt
+node_modules
