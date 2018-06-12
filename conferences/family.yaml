@@ -1,4 +1,17 @@
 # Configuration list for all JSConf family events
+#
+# Set up your conference status with date ranges!
+#
+# - jsconfus:
+#     name: JSConf US
+#     site: https://2018.jsconf.us
+#     logo: http://2015.jsconf.us/img/js-sized.png
+#     status:
+#       - onsale:
+#           start: 06/01/2018
+#           end: 07/01/2018
+#     location: Jacksonville, FL
+#
 
 # JSUnconf
 - jsunconf:
