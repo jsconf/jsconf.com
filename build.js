@@ -40,6 +40,39 @@ function loadEvents() {
     const id = Object.keys(item)[0];
     let conf = Object.assign({}, item[id]);
     conf.id = id;
+
+    // status can be a string or list item(s) with dates
+    if (!!conf.status) {
+      if (conf.status instanceof Array) {
+        let status = null;
+        conf.status.forEach((stat) => {
+          let c = Object.keys(stat)[0];
+          let s = stat[c];
+
+          let start = !!s.start ? new Date(s.start) : null;
+          let end = !!s.end ? new Date(s.end) : null;
+
+          // if only end is defined, assume yesterday as start time
+          if (end !== null && start === null) {
+            let dt = new Date();
+            dt.setDate(dt.getDate() - 1);
+            start = dt;
+          }
+
+          // if we are betwen start and end, this status is valid
+          let now = Date.now();
+          if (start <= now && now <= end) {
+            conf.status = c;
+          }
+        });
+      }
+
+      // clear out any status that isn't a string
+      if (typeof conf.status !== 'string') {
+        conf.status = null;
+      }
+      console.log(conf);
+    }
     return conf;
   }
 }
