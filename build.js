@@ -71,7 +71,6 @@ function loadEvents() {
       if (typeof conf.status !== 'string') {
         conf.status = null;
       }
-      console.log(conf);
     }
     return conf;
   }
