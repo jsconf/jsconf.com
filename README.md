@@ -39,6 +39,34 @@ There are a few different configuration options available for you to specify:
 | `location` | City, state or venue for your conference (i.e., **New York, NY**) |
 | `status` | Optional current status of the conference. Currently, we support two different options: <ul><li>`onsale` - highlight your event with "tickets on sale"</li><li>`inactive` - hides event from view without removing it entirely</li></ul> |
 
+#### Status Options
+
+The `status` config offers a couple additional variations that will dynamically
+set up or remove your desired status in a more dynamic way:
+
+**Static status declaration:**<br>
+```yaml
+- subterraineanjs
+    status: onsale
+```
+
+**Static status declaration with an end date:**<br>
+```yaml
+- subterraineanjs
+    status:
+      - onsale:
+          end: 07/01/2018
+```
+
+**Fully dynamic date range for status declaration:**<br>
+```yaml
+- subterraineanjs
+    status:
+      - onsale:
+          start: 06/01/2018
+          end: 07/01/2018
+```
+
 #### Example
 
 Here is an example configuration to add in a new event that is currently on sale:
