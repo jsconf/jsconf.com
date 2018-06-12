@@ -79,7 +79,7 @@
 # BeerJS
 - beerjs:
     name: BeerJS
-    site: http://beejs.com
+    site: http://beerjs.com
     logo: images/beerjs.png
     location: Everywhere
 
