@@ -33,6 +33,8 @@
     name: JSConf HI
     site: https://jsconfhi.com
     logo: images/jsconf_hi.png
+    location: Honolulu, Hawaii
+    status: onsale
 
 # JSConf AU
 - jsconfau:
