@@ -14,13 +14,6 @@
 #           end: 07/01/2018
 #
 
-# JSConf US
-- jsconfus:
-    name: JSConf US
-    site: https://2018.jsconf.us
-    logo: https://2015.jsconf.us/img/js-sized.png
-    status: onsale
-
 # JSConf EU
 - jsconfeu:
     name: JSConf EU
@@ -36,6 +29,12 @@
     location: Honolulu, Hawaii
     status: onsale
 
+# JSConf US
+- jsconfus:
+    name: JSConf US
+    site: https://2018.jsconf.us
+    logo: https://2015.jsconf.us/img/js-sized.png
+    
 # JSConf AU
 - jsconfau:
     name: JSConf AU
