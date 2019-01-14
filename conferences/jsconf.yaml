@@ -32,9 +32,9 @@
 # JSConf US
 - jsconfus:
     name: JSConf US
-    site: https://2018.jsconf.us
+    site: https://2019.jsconf.us
     logo: https://2015.jsconf.us/img/js-sized.png
-    
+
 # JSConf AU
 - jsconfau:
     name: JSConf AU
