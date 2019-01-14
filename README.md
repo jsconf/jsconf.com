@@ -37,7 +37,7 @@ There are a few different configuration options available for you to specify:
 | `site` | URL to your conference website |
 | `logo` | URL to your conference logo<br><br>**NOTE:** You can add and reference locally hosted images by submitting them into the `/public/images` directory! |
 | `location` | City, state or venue for your conference (i.e., **New York, NY**) |
-| `status` | Optional current status of the conference. Currently, we support two different options: <ul><li>`onsale` - highlight your event with "tickets on sale"</li><li>`inactive` - hides event from view without removing it entirely</li></ul> |
+| `status` | Optional current status of the conference. Currently, we support three different options: <ul><li>`onsale` - highlight your event with "tickets on sale"</li><li>`inactive` - hides event from view without removing it entirely</li><li>`opencfp` - highlight your event with "open call for papers"</li></ul> |
 
 #### Status Options
 
