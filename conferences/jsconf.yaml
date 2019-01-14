@@ -13,7 +13,13 @@
 #           start: 06/01/2018
 #           end: 07/01/2018
 #
-
+# Set up your conference status with Open CFP
+# - jsconfus:
+#     name: JSConf US
+#     site: https://2019.jsconf.us
+#     logo: http://2015.jsconf.us/img/js-sized.png
+#     status: opencfp
+#
 # JSConf EU
 - jsconfeu:
     name: JSConf EU
@@ -34,6 +40,8 @@
     name: JSConf US
     site: https://2019.jsconf.us
     logo: https://2015.jsconf.us/img/js-sized.png
+    location: Carlsbad, California
+    status: opencfp
 
 # JSConf AU
 - jsconfau:
