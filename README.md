@@ -81,3 +81,4 @@ Here is an example configuration to add in a new event that is currently on sale
     location: Iceland
     status: onsale
 ```
+
