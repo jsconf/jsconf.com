@@ -91,6 +91,9 @@
     name: JSConf Budapest
     site: http://jsconfbp.com
     logo: images/jsconf_bp.png
+    status: 
+     - onsale
+     - opencfp
 
 # JSConf Belgium
 - jsconfbelgium:
