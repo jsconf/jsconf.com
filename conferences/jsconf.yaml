@@ -41,7 +41,7 @@
     site: https://2019.jsconf.us
     logo: https://2015.jsconf.us/img/js-sized.png
     location: Carlsbad, California
-    status: opencfp
+    status: opencfp onsale
 
 # JSConf AU
 - jsconfau:
@@ -91,9 +91,7 @@
     name: JSConf Budapest
     site: http://jsconfbp.com
     logo: images/jsconf_bp.png
-    status: 
-     - onsale
-     - opencfp
+    status: onsale opencfp
 
 # JSConf Belgium
 - jsconfbelgium:
