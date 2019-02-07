@@ -18,7 +18,7 @@
 #     name: JSConf US
 #     site: https://2019.jsconf.us
 #     logo: http://2015.jsconf.us/img/js-sized.png
-#     status: opencfp
+#     status: opencfp # and add onsale to the same line for both
 #
 # JSConf EU
 - jsconfeu:
@@ -26,15 +26,7 @@
     site: https://2019.jsconf.eu
     logo: images/jsconf_eu.png
     status: onsale
-
-# JSConf HI
-- jsconfhi:
-    name: JSConf HI
-    site: https://jsconfhi.com
-    logo: images/jsconf_hi.png
-    location: Honolulu, Hawaii
-    status: onsale
-
+    
 # JSConf US
 - jsconfus:
     name: JSConf US
@@ -42,6 +34,20 @@
     logo: https://2015.jsconf.us/img/js-sized.png
     location: Carlsbad, California
     status: opencfp onsale
+    
+# JSConf Budapest
+- jsconfbudapest:
+    name: JSConf Budapest
+    site: http://jsconfbp.com
+    logo: images/jsconf_bp.png
+    status: onsale opencfp
+
+# JSConf HI
+- jsconfhi:
+    name: JSConf HI
+    site: https://jsconfhi.com
+    logo: images/jsconf_hi.png
+    location: Honolulu, Hawaii
 
 # JSConf AU
 - jsconfau:
@@ -85,13 +91,6 @@
     name: JSConf UY
     site: http://jsconf.uy
     logo: images/jsconf_uy.png
-
-# JSConf Budapest
-- jsconfbudapest:
-    name: JSConf Budapest
-    site: http://jsconfbp.com
-    logo: images/jsconf_bp.png
-    status: onsale opencfp
 
 # JSConf Belgium
 - jsconfbelgium:
