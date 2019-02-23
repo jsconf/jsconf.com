@@ -103,3 +103,10 @@
     name: JSConf China
     site: http://2017.jsconf.cn
     logo: images/jsconf_cn.png
+    
+# JSConf Korea
+- jsconfkorea:
+    name: JSConf Korea
+    site: http://2019.jsconfkorea.com
+    logo: images/jsconf_kr.png
+    location: Seoul, Korea
