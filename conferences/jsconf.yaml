@@ -41,6 +41,13 @@
     site: http://jsconfbp.com
     logo: images/jsconf_bp.png
     status: onsale opencfp
+    
+# JSConf Korea
+- jsconfkorea:
+    name: JSConf Korea
+    site: https://2019.jsconfkorea.com
+    logo: images/jsconf_kr.png
+    location: Seoul, Korea
 
 # JSConf HI
 - jsconfhi:
@@ -104,9 +111,3 @@
     site: http://2017.jsconf.cn
     logo: images/jsconf_cn.png
     
-# JSConf Korea
-- jsconfkorea:
-    name: JSConf Korea
-    site: https://2019.jsconfkorea.com
-    logo: images/jsconf_kr.png
-    location: Seoul, Korea
