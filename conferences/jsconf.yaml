@@ -56,6 +56,12 @@
     logo: images/jsconf_kr.png
     location: Seoul, Korea
 
+# JSConf Japan
+- jsconfjp:
+    name: JSConf Japan
+    site: https://jsconf.jp
+    logo: images/jsconf_jp.png
+
 # JSConf AU
 - jsconfau:
     name: JSConf AU
