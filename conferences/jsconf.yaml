@@ -14,13 +14,6 @@
 #           end: 07/01/2018
 #
 
-# JSConf US
-# - jsconfus:
-#     name: JSConf US
-#     site: https://2018.jsconf.us
-#     logo: https://2015.jsconf.us/img/js-sized.png
-#     status: onsale
-
 # JSConf EU
 - jsconfeu:
     name: JSConf EU
@@ -28,11 +21,47 @@
     logo: images/jsconf_eu.png
     status: onsale
 
+# JSConf US
+# - jsconfus:
+#     name: JSConf US
+#     site: https://2019.jsconf.us
+#     logo: https://2015.jsconf.us/img/js-sized.png
+#     location: Carlsbad, California
+
+# JSConf Budapest
+- jsconfbudapest:
+    name: JSConf Budapest
+    site: http://jsconfbp.com
+    logo: images/jsconf_bp.png
+    status: onsale opencfp
+
 # JSConf HI
 - jsconfhi:
     name: JSConf HI
     site: https://jsconfhi.com
     logo: images/jsconf_hi.png
+    location: Honolulu, Hawaii
+    status: onsale opencfp
+
+# JSConf Korea
+- jsconfkorea:
+    name: JSConf Korea
+    site: https://2019.jsconfkorea.com
+    logo: images/jsconf_kr.png
+    location: Seoul, Korea
+
+- jsconfmx:
+    name: JSConf México
+    site: https://jsconf.mx
+    logo: images/jsconf_mx.png
+    location: Mexico City, Mexico
+
+# JSConf Japan
+- jsconfjp:
+    name: JSConf Japan
+    site: https://jsconf.jp
+    logo: images/jsconf_jp.png
+
 
 # JSConf AU
 # - jsconfau:
@@ -76,12 +105,6 @@
     site: http://jsconf.uy
     logo: images/jsconf_uy.png
 
-# JSConf Budapest
-- jsconfbudapest:
-    name: JSConf Budapest
-    site: http://jsconfbp.com
-    logo: images/jsconf_bp.png
-
 # JSConf Belgium
 - jsconfbelgium:
     name: JSConf Belgium
@@ -93,3 +116,4 @@
     name: JSConf China
     site: http://2017.jsconf.cn
     logo: images/jsconf_cn.png
+
