@@ -56,6 +56,12 @@
     logo: images/jsconf_kr.png
     location: Seoul, Korea
 
+- jsconfmx:
+    name: JSConf México
+    site: https://jsconf.mx
+    logo: images/jsconf_mx.png
+    location: Mexico City, Mexico
+
 # JSConf AU
 - jsconfau:
     name: JSConf AU
