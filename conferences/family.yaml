@@ -43,11 +43,11 @@
     location: Portland, OR
 
 # EmpireJS
-- empirejs:
-    name: EmpireJS
-    site: http://empireconf.org
-    logo: images/empirejs/2015.png
-    location: New York, NY
+# - empirejs:
+#     name: EmpireJS
+#     site: http://empireconf.org
+#     logo: images/empirejs/2015.png
+#     location: New York, NY
 
 # NodeCopter
 - nodecopter:
@@ -77,11 +77,11 @@
     location: Oslo, Norway
 
 # BeerJS
-- beerjs:
-    name: BeerJS
-    site: http://beerjs.com
-    logo: images/beerjs.png
-    location: Everywhere
+# - beerjs:
+#     name: BeerJS
+#     site: http://beerjs.com
+#     logo: images/beerjs.png
+#     location: Everywhere
 
 # Midwest JS
 - midwestjs:
