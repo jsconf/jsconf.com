@@ -13,13 +13,7 @@
 #           start: 06/01/2018
 #           end: 07/01/2018
 #
-# Set up your conference status with Open CFP
-# - jsconfus:
-#     name: JSConf US
-#     site: https://2019.jsconf.us
-#     logo: http://2015.jsconf.us/img/js-sized.png
-#     status: opencfp # and add onsale to the same line for both
-#
+
 # JSConf EU
 - jsconfeu:
     name: JSConf EU
@@ -28,11 +22,11 @@
     status: onsale
 
 # JSConf US
-- jsconfus:
-    name: JSConf US
-    site: https://2019.jsconf.us
-    logo: https://2015.jsconf.us/img/js-sized.png
-    location: Carlsbad, California
+# - jsconfus:
+#     name: JSConf US
+#     site: https://2019.jsconf.us
+#     logo: https://2015.jsconf.us/img/js-sized.png
+#     location: Carlsbad, California
 
 # JSConf Budapest
 - jsconfbudapest:
@@ -70,10 +64,10 @@
 
 
 # JSConf AU
-- jsconfau:
-    name: JSConf AU
-    site: http://jsconfau.com
-    logo: images/jsconf_au.png
+# - jsconfau:
+#     name: JSConf AU
+#     site: http://jsconfau.com
+#     logo: images/jsconf_au.png
 
 # JSConf AR
 - jsconfar:
@@ -82,10 +76,10 @@
     logo: images/jsconf_ar.png
 
 # JSConf BR
-- jsconfbr:
-    name: JSConf BR
-    site: http://www.jsconfbr.org
-    logo: images/jsconf_br.png
+# - jsconfbr:
+#     name: JSConf BR
+#     site: http://www.jsconfbr.org
+#     logo: images/jsconf_br.png
 
 # JSConf CO
 - jsconfco:
