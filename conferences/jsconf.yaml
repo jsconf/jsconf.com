@@ -62,12 +62,18 @@
     logo: images/jsconf_mx.png
     location: Mexico City, Mexico
 
+# JSConf India
+- jsconfin:
+    name: JSConf India
+    site: https://jsconf.in
+    logo: https://www.jsconf.in/JSConfIN.png
+    location: Mumbai, India
+
 # JSConf Japan
 - jsconfjp:
     name: JSConf Japan
     site: https://jsconf.jp
     logo: images/jsconf_jp.png
-
 
 # JSConf AU
 - jsconfau:
@@ -122,4 +128,3 @@
     name: JSConf China
     site: http://2017.jsconf.cn
     logo: images/jsconf_cn.png
-
