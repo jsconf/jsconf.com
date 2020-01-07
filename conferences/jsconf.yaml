@@ -20,12 +20,6 @@
 #     logo: http://2015.jsconf.us/img/js-sized.png
 #     status: opencfp # and add onsale to the same line for both
 #
-# JSConf EU
-- jsconfeu:
-    name: JSConf EU
-    site: https://2019.jsconf.eu
-    logo: images/jsconf_eu.png
-    status: onsale
 
 # JSConf US
 - jsconfus:
@@ -74,6 +68,12 @@
     name: JSConf Japan
     site: https://jsconf.jp
     logo: images/jsconf_jp.png
+
+# JSConf EU
+- jsconfeu:
+    name: JSConf EU
+    site: https://2019.jsconf.eu
+    logo: images/jsconf_eu.png
 
 # JSConf AU
 - jsconfau:
