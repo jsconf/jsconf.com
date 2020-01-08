@@ -5,9 +5,9 @@
 # Example config:
 #
 # - jsconfus:
-#     name: JSConf US
-#     site: https://2018.jsconf.us
-#     logo: http://2015.jsconf.us/img/js-sized.png
+#     name: JSConf TBA
+#     site: https://20xx.jsconf.tba
+#     logo: /images/jsconf_tba.png
 #     status:
 #       - onsale:
 #           start: 06/01/2018
@@ -16,8 +16,8 @@
 # Set up your conference status with Open CFP
 # - jsconfus:
 #     name: JSConf US
-#     site: https://2019.jsconf.us
-#     logo: http://2015.jsconf.us/img/js-sized.png
+#     site: https://20xx.jsconf.tba
+#     logo: /images/jsconf_tba.png
 #     status: opencfp # and add onsale to the same line for both
 #
 
@@ -25,7 +25,7 @@
 - jsconfus:
     name: JSConf US
     site: https://2019.jsconf.us
-    logo: https://2015.jsconf.us/img/js-sized.png
+    logo: /images/jsconf_us.png
     location: Carlsbad, California
 
 # JSConf Budapest
