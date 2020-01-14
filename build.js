@@ -4,7 +4,6 @@ const path = require('path');
 const fs = require('fs');
 const yaml = require('node-yaml');
 const pug = require('pug');
-const sass = require('node-sass');
 const Promise = require('bluebird');
 
 const OUTPUT_DIR = process.env.OUTPUT_DIR || 'dist';
@@ -111,24 +110,15 @@ async function buildHTML() {
 }
 
 async function buildCSS() {
-  console.info(`[SASS] Building styles`);
+  console.info(`[CSS] Copying CSS`);
 
-  const source = path.resolve(__dirname, 'sass/main.scss');
+  const source = path.resolve(__dirname, 'css/main.css');
   const output = path.resolve(__dirname, OUTPUT_DIR, 'css/main.css');
 
   return new Promise((resolve, reject) => {
-    sass.render({
-      file: source,
-      outFile: output,
-      sourceMap: true,
-      outputStyle: 'compact'
-    }, (err, result) => {
+    fs.copyFile(source, output, err => {
       if (err) return reject(err);
-
-      fs.writeFile(output, result.css, err => {
-        if (err) return reject(err);
-        resolve();
-      });
+      resolve();
     });
   });
 }
