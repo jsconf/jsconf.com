@@ -53,9 +53,10 @@
 # JSConf Korea
 - jsconfkorea:
     name: JSConf Korea
-    site: https://2019.jsconfkorea.com
+    site: https://jsconfkorea.com
     logo: images/jsconf_kr.png
-    location: Seoul, Korea
+    location: online
+    status: opencfp
 
 
 
