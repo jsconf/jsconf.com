@@ -65,7 +65,8 @@
     name: JSConf India
     site: https://jsconf.in
     logo: https://www.jsconf.in/JSConfIN.png
-    location: Mumbai, India
+    location: online
+    status: onsale opencfp
 
 # JSConf Japan
 - jsconfjp:
