@@ -41,7 +41,7 @@
     name: JSConf Budapest
     site: http://jsconfbp.com
     logo: images/jsconf_bp.png
-    status: onsale opencfp
+    status: onsale
 
 # JSConf HI
 - jsconfhi:
@@ -49,14 +49,12 @@
     site: https://jsconfhi.com
     logo: images/jsconf_hi.png
     location: Honolulu, Hawaii
-    status: onsale opencfp
 
 - jsconfmx:
     name: JSConf México
     site: https://jsconf.mx
     logo: images/jsconf_mx.png
     location: Mexico City, Mexico
-    status: onsale
 
 # JSConf Korea
 - jsconfkorea:
@@ -64,7 +62,6 @@
     site: https://jsconfkorea.com
     logo: images/jsconf_kr.png
     location: online
-    status: opencfp
 
 # JSConf Japan
 - jsconfjp:
