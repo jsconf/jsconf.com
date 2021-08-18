@@ -21,6 +21,14 @@
 #     status: opencfp # and add onsale to the same line for both
 #
 
+# JSConf India
+- jsconfin:
+    name: JSConf India
+    site: https://jsconf.in
+    logo: https://www.jsconf.in/JSConfIN.png
+    location: online
+    status: onsale opencfp
+
 # JSConf US
 - jsconfus:
     name: JSConf US
@@ -57,16 +65,6 @@
     logo: images/jsconf_kr.png
     location: online
     status: opencfp
-
-
-
-# JSConf India
-- jsconfin:
-    name: JSConf India
-    site: https://jsconf.in
-    logo: https://www.jsconf.in/JSConfIN.png
-    location: online
-    status: onsale opencfp
 
 # JSConf Japan
 - jsconfjp:
