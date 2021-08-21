@@ -29,6 +29,14 @@
     location: online
     status: onsale opencfp
 
+# JSConf México
+- jsconfmx:
+    name: JSConf México
+    site: https://jsconf.mx
+    logo: images/jsconf_mx.png
+    location: Mexico City, Mexico
+    status: opencfp
+
 # JSConf US
 - jsconfus:
     name: JSConf US
@@ -50,11 +58,6 @@
     logo: images/jsconf_hi.png
     location: Honolulu, Hawaii
 
-- jsconfmx:
-    name: JSConf México
-    site: https://jsconf.mx
-    logo: images/jsconf_mx.png
-    location: Mexico City, Mexico
 
 # JSConf Korea
 - jsconfkorea:
