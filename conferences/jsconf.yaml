@@ -34,8 +34,8 @@
     name: JSConf México
     site: https://jsconf.mx
     logo: images/jsconf_mx.png
-    location: Mexico City, Mexico
-    status: opencfp
+    location: online
+    status: onsale
 
 # JSConf US
 - jsconfus:
