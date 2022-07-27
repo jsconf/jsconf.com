@@ -27,6 +27,7 @@
     site: https://jsconf.cl
     logo: /images/jsconf_cl.png
     location: Santiago, Chile
+    status: opencfp
 
 # JSConf India
 - jsconfin:
@@ -63,7 +64,6 @@
     site: https://jsconfhi.com
     logo: images/jsconf_hi.png
     location: Honolulu, Hawaii
-
 
 # JSConf Korea
 - jsconfkorea:
