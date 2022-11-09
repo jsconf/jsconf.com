@@ -27,14 +27,15 @@
     site: https://jsconf.cl
     logo: /images/jsconf_cl.png
     location: Santiago, Chile
-    status: opencfp
+    status: opencfp onsale
 
 # JSConf India
 - jsconfin:
     name: JSConf India
     site: https://jsconf.in
     logo: https://www.jsconf.in/JSConfIN.png
-    location: online
+    location: Bengaluru, India
+    status: opencfp onsale
 
 # JSConf México
 - jsconfmx:
