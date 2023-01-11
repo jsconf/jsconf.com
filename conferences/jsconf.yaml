@@ -68,10 +68,9 @@
 # JSConf Korea
 - jsconfkorea:
     name: JSConf Korea
-    site: https://2022.jsconf.kr
+    site: https://jsconf.kr
     logo: images/jsconf_kr.png
     location: Seoul, Korea
-    status: opencfp
 
 # JSConf Japan
 - jsconfjp:
