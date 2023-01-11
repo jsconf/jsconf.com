@@ -69,9 +69,9 @@
 # JSConf Korea
 - jsconfkorea:
     name: JSConf Korea
-    site: https://jsconfkorea.com
+    site: https://jsconf.kr
     logo: images/jsconf_kr.png
-    location: online
+    location: Seoul, Korea
 
 # JSConf Japan
 - jsconfjp:
