@@ -118,12 +118,6 @@
     site: http://jsconf.is
     logo: images/jsconf_is.png
 
-# JSConf UY
-- jsconfuy:
-    name: JSConf UY
-    site: http://jsconf.uy
-    logo: images/jsconf_uy.png
-
 # JSConf Belgium
 - jsconfbelgium:
     name: JSConf Belgium
