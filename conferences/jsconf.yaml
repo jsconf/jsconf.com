@@ -21,6 +21,13 @@
 #     status: opencfp # and add onsale to the same line for both
 #
 
+# JSConf España
+- jsconfes:
+    name: JSConf España
+    site: https://jsconf.es
+    logo: /images/jsconf_es.png
+    location: Madrid, España
+
 # JSConf Chile
 - jsconfcl:
     name: JSConf Chile
