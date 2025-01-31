@@ -52,10 +52,10 @@
 
 # JSConf US
 - jsconfus:
-    name: JSConf US
-    site: https://2019.jsconf.us
+    name: JSConf North America 2025
+    site: https://events.linuxfoundation.org/jsconf-north-america/
     logo: /images/jsconf_us.png
-    location: Carlsbad, California
+    location: Baltimore, Maryland
 
 # JSConf Budapest
 - jsconfbudapest:
