@@ -52,7 +52,7 @@
 
 # JSConf US
 - jsconfus:
-    name: JSConf North America 2025
+    name: JSConf North America
     site: https://events.linuxfoundation.org/jsconf-north-america/
     logo: /images/jsconf_us.png
     location: Baltimore, Maryland
