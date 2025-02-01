@@ -20,6 +20,12 @@
 #     logo: /images/jsconf_tba.png
 #     status: opencfp # and add onsale to the same line for both
 #
+# JSConf North America
+- jsconfus:
+    name: JSConf North America
+    site: https://events.linuxfoundation.org/jsconf-north-america/
+    logo: /images/jsconf_us.png
+    location: Baltimore, Maryland
 
 # JSConf España
 - jsconfes:
@@ -50,12 +56,7 @@
     location: Gudalajara, Mexico
     status: opencfp
 
-# JSConf US
-- jsconfus:
-    name: JSConf North America
-    site: https://events.linuxfoundation.org/jsconf-north-america/
-    logo: /images/jsconf_us.png
-    location: Baltimore, Maryland
+
 
 # JSConf Budapest
 - jsconfbudapest:
